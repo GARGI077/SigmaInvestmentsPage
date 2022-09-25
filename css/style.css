@@ -265,8 +265,8 @@ li {
 }
 .li-tc.two:before {
    /* content:"\f00c"; */
-   content:"\f08d"; /*for pin*/
-    /* content:"\f02e"; /for bookmark */
+   /*content:"\f08d"; for pin*/
+     content:"\f02e"; /*for bookmark */
 }
 .li-tc.three:before {
    content:"\f10c";
