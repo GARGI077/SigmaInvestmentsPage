@@ -264,14 +264,9 @@ li {
    /* content:"\f024";  for flag */
 }
 .li-tc.two:before {
-   /* content:"\f00c"; */
-<<<<<<< HEAD
-   /* content:"\f08d"; for pin */
-    content:"\f02e"; /*for bookmark */
-=======
-   /*content:"\f08d"; for pin*/
-     content:"\f02e"; /*for bookmark */
->>>>>>> ce6a6ccb41f05311e3964266931bffa851c34f50
+   content:"\f00c"; /*
+   content:"\f08d"; /*for pin*/
+    /* content:"\f02e"; /for bookmark */
 }
 .li-tc.three:before {
    content:"\f10c";
